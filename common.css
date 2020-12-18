@@ -132,7 +132,7 @@ body{
 }
 .fooder li{
 	padding: 10px;
-	border: 1px solid #666666;
+	/* border: 1px solid #666666; */
 	box-shadow: -4px 10px 11px #C2C2C2;
 	border-radius: 5px;
 	margin-bottom:20px ;
